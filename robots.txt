@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://xahcaiselu.weslee3.com/sitemap.xml
